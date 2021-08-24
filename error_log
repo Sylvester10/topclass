@@ -1,0 +1,6 @@
+[28-Nov-2018 15:17:06 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/q2rweb/public_html/topclass/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[28-Nov-2018 15:17:07 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/q2rweb/public_html/topclass/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Dec-2018 07:49:41 UTC] PHP Fatal error:  Call to a member function get_school_stats() on a non-object in /home/topclass/public_html/application/controllers/Admin.php on line 19
+[07-Dec-2018 07:49:42 UTC] PHP Fatal error:  Call to a member function get_school_stats() on a non-object in /home/topclass/public_html/application/controllers/Admin.php on line 19
+[07-Dec-2018 07:54:42 UTC] PHP Fatal error:  Call to a member function get_school_stats() on a non-object in /home/topclass/public_html/application/controllers/Admin.php on line 19
+[07-Dec-2018 07:54:43 UTC] PHP Fatal error:  Call to a member function get_school_stats() on a non-object in /home/topclass/public_html/application/controllers/Admin.php on line 19
